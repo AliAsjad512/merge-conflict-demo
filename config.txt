@@ -1,5 +1,6 @@
 database=postgres
 port=3306
-environment=production
+environment=dev
+
 
 
